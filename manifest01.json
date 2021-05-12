@@ -1,0 +1,41 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://gist.githubusercontent.com/Mililine/297d4f3eef0342752fc5dc3b3a50cc0d/raw/c7fdf5e39f475437b8b645fd35925a2acfbb173f/manifest.json",
+  "label": "Photographies",
+  "description": "Vues aériennes des Alpes par Eduard Spelterini.",
+  "attribution": "Collections de la Bibliothèque nationale suisse",
+  "logo": "http://127.0.0.1:8887/logo.jpg",
+  "sequences": [
+	{
+	  "@type": "sc.Sequence",
+	  "canvases": [ 
+		{
+			"@type": "sc:Canvas",
+			"@id": "https://example.com/segPh_01/canvas/1",
+			"label": "01",
+			"width": 4889,
+			"height": 3608,
+			"images": [
+			{
+				"@type": "oa:Annotation",
+				"motivation": "sc:painting",
+				"on": "https://example.com/segPh_01/canvas/1",
+				"resource": {
+					"@type": "dctypes:Image",
+					"@id": "https://iiif.archivelab.org/iiif/ch-nb-eiger-monch-eduard-spelterini-ead-wehr-32015-a/full/full/0/default.jpg",
+					"width": 4889,
+					"height": 3608,
+					"service": {
+						"@context": "http://iiif.io/api/image/2/context.json",
+						"@id": "https://iiif.archivelab.org/iiif/segPh_01",
+						"profile": "http://iiif.io/api/image/2/level2.json"
+					}
+				}
+			}
+		]
+	  }
+	 ]
+	}
+  ]
+}
