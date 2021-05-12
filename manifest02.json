@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "http://127.0.0.1:8887/manifest_vum.json",
+  "@id": "http://127.0.0.1:8887/manifest02.json",
   "label": "Photographies",
   "description": "Vues aériennes des Alpes par Eduard Spelterini.",
   "attribution": "Collections de la Bibliothèque nationale suisse",
