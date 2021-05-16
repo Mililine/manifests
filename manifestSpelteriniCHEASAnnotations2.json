@@ -1,0 +1,353 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://21748ef7-c7c6-4eb0-b511-4fad559c9066",
+	"@type": "sc:Manifest",
+	"label": "Photographies aériennes d'Eduard Spelterini, prises entre 1870 et 1926",
+	"metadata": [
+		{"label": "Auteur", "value": "Eduard Spelterini (1852-1931)"},
+		{"label": "Publié", "value": [
+			{"@value": "Entre 1870 et 1926", "@language": "fr"},
+			{"@value": "Between 1870 and 1926", "@language": "en"}
+			]
+		}
+	],
+	"description": [
+		{
+			"@value": "Les images rassemblées dans cet extrait de collection ont été prises par Eduard Spelterini entre 1870 et 1926. Ce pilote, pionnier des vols en ballon à air chaud et de la photographie aérienne, a effectué près de 570 voyages au-dessus de l'Europe, mais aussi de l'Egypte et de l'Afrique du Sud. Les images des Alpes ont été réalisées entre 1898, sa première traversée des Alpes en ballon, et 1913.",
+			"@language": "fr"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Cabinet des Estampes, Bibliothèque nationale suisse",
+	"logo": "http://127.0.0.1:8887/logo.png",
+	"sequences": [
+		{
+			"@id": "http://8cf25269-fb79-43e0-85dd-eaf9befdaaed",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://206c46e6-6f21-4e97-80c2-dbab3dfa597a",
+					"@type": "sc:Canvas",
+					"label": "Eiger, Mönch",
+					"height": 3608,
+					"width": 4889,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1a32210c-3748-48e6-8109-b101fda8588b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/ch-nb-eiger-monch-eduard-spelterini-ead-wehr-32015-a/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/ch-nb-eiger-monch-eduard-spelterini-ead-wehr-32015-a",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3608,
+								"width": 4889
+							},
+							"on": "http://206c46e6-6f21-4e97-80c2-dbab3dfa597a"
+						}
+					],
+					"otherContent": [
+    				{
+        			"@id": "http://127.0.0.1:8887/NewAnnotations1.json",
+        			"@type": "sc:AnnotationList",
+        			"label": "Annotations, Eiger, Mönch"
+    				}
+					]
+				},
+				{
+					"@id": "http://0498e155-0cfc-4360-ba24-8e19dcdc4e62",
+					"@type": "sc:Canvas",
+					"label": "Glacier du Trient",
+					"height": 3642,
+					"width": 4771,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bcc815d7-f607-40e1-9b80-708b36178da0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/ch-nb-glacier-du-trient-eduard-spelterini-ead-wehr-32066-b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/ch-nb-glacier-du-trient-eduard-spelterini-ead-wehr-32066-b",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3642,
+								"width": 4771
+							},
+							"on": "http://0498e155-0cfc-4360-ba24-8e19dcdc4e62"
+						}
+					],
+					"otherContent": [
+        		{
+            		"@id": "http://127.0.0.1:8887/NewAnnotations3.json",
+            		"@type": "sc:AnnotationList",
+            		"label": "Annotations, Glacier du Trient"
+        		}
+    			]
+				},
+				{
+					"@id": "http://59f6172d-90c7-4395-b400-943d306c1461",
+					"@type": "sc:Canvas",
+					"label": "Mer de glace, Massif du Mont Blanc",
+					"height": 3621,
+					"width": 4762,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://06d8d061-6f1b-459f-9f9d-a9dc67786b92",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/ch-nb-gletscher-mer-de-glace-mont-blanc-gruppe-eduard-spelterini-ead-wehr-32071-b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/ch-nb-gletscher-mer-de-glace-mont-blanc-gruppe-eduard-spelterini-ead-wehr-32071-b",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3621,
+								"width": 4762
+							},
+							"on": "http://59f6172d-90c7-4395-b400-943d306c1461"
+						}
+					],
+					"otherContent": [
+					  {
+							"@id": "http://127.0.0.1:8887/NewAnnotations2.json",
+							"@type": "sc:AnnotationList",
+							"label": "Annotations, Mer de Glace"
+						}
+					]
+				},
+				{
+					"@id": "http://e3501e02-d207-4a2c-a908-ff169f628d2a",
+					"@type": "sc:Canvas",
+					"label": "Aiguille du Chardonnet, Massif du Mont Blanc",
+					"height": 3605,
+					"width": 4782,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c6b74a2e-cc91-4b76-a17a-93b0172bc661",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/ch-nb-aiguille-du-chardonnet-mont-blanc-massiv-eduard-spelterini-ead-wehr-32125-b_20210428/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/ch-nb-aiguille-du-chardonnet-mont-blanc-massiv-eduard-spelterini-ead-wehr-32125-b_20210428",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3605,
+								"width": 4782
+							},
+							"on": "http://e3501e02-d207-4a2c-a908-ff169f628d2a"
+						}
+					],
+					"otherContent": [
+							{
+								"@id": "http://127.0.0.1:8887/NewAnnotations7.json",
+								"@type": "sc:AnnotationList",
+								"label": "Annotations, Aiguille du Chardonnet"
+							}
+					]
+				},
+				{
+					"@id": "http://7b416f15-05e9-4a8c-a563-f455c06d1716",
+					"@type": "sc:Canvas",
+					"label": "Pyramides de Gizeh",
+					"height": 3343,
+					"width": 4502,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a9eeede0-2f2b-48bd-8aa8-e4e7a6a99143",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/ch-nb-aegypten-pyramiden-von-gizeh-eduard-spelterini-ead-wehr-32044-b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/ch-nb-aegypten-pyramiden-von-gizeh-eduard-spelterini-ead-wehr-32044-b",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3343,
+								"width": 4502
+							},
+							"on": "http://7b416f15-05e9-4a8c-a563-f455c06d1716"
+						}
+					],
+					"otherContent": [
+							{
+								"@id": "http://127.0.0.1:8887/NewAnnotations5.json",
+								"@type": "sc:AnnotationList",
+								"label": "Annotations, pyramides"
+							}
+					]
+				},
+				{
+					"@id": "http://ed8ce4af-845b-4f1d-b1d9-e604972f98ca",
+					"@type": "sc:Canvas",
+					"label": "Le Caire",
+					"height": 3651,
+					"width": 4772,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://eb02570a-87c9-46d7-9047-f1873efb25fb",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/ch-nb-kairo-eduard-spelterini-ead-wehr-32036-b-1/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/ch-nb-kairo-eduard-spelterini-ead-wehr-32036-b-1",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3651,
+								"width": 4772
+							},
+							"on": "http://ed8ce4af-845b-4f1d-b1d9-e604972f98ca"
+						}
+					],
+					"otherContent": [
+							{
+								"@id": "http://127.0.0.1:8887/NewAnnotations8.json",
+								"@type": "sc:AnnotationList",
+								"label": "Annotations, Le Caire"
+							}
+					]
+				},
+				{
+					"@id": "http://485c2dcc-68a5-474c-852f-1d02faef591e",
+					"@type": "sc:Canvas",
+					"label": "Johannesbourg",
+					"height": 3535,
+					"width": 4665,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://9f5bc412-775c-4f1e-b1ab-46f533a71723",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/ch-nb-johannesburg-eduard-spelterini-ead-wehr-32110-b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/ch-nb-johannesburg-eduard-spelterini-ead-wehr-32110-b",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3535,
+								"width": 4665
+							},
+							"on": "http://485c2dcc-68a5-474c-852f-1d02faef591e"
+						}
+					],
+					"otherContent": [
+							{
+								"@id": "http://127.0.0.1:8887/NewAnnotations4.json",
+								"@type": "sc:AnnotationList",
+								"label": "Annotations, Johannesbourg"
+							}
+					]
+				},
+				{
+					"@id": "http://99fa61fe-f367-4ef1-aa6b-f3597c803cbc",
+					"@type": "sc:Canvas",
+					"label": "Mines du Transvaal",
+					"height": 3509,
+					"width": 4730,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a9cd9692-1029-464d-b723-da2b8a132aca",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/ch-nb-transvaal-sudafrika-eduard-spelterini-ead-wehr-32113-b/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/ch-nb-transvaal-sudafrika-eduard-spelterini-ead-wehr-32113-b",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3509,
+								"width": 4730
+							},
+							"on": "http://99fa61fe-f367-4ef1-aa6b-f3597c803cbc"
+						}
+					],
+					"otherContent": [
+							{
+								"@id": "http://127.0.0.1:8887/NewAnnotations6.json",
+								"@type": "sc:AnnotationList",
+								"label": "Annotations, Transvaal"
+							}
+					]
+				}
+			]
+		}
+	],
+	"structures": [
+		{
+          "@id": "http://example.org/iiif/book1/range/r0",
+          "@type": "sc:Range",
+          "label": "Alpes",
+          "members": [
+                {
+                  "@id": "http://example.org/iiif/book1/range/r1",
+                  "@type": "sc:Range",
+                  "label": "Eiger, Mönch"
+                }
+          ]
+        },
+        {
+              "@id": "http://example.org/iiif/book1/range/r1",
+              "@type": "sc:Range",
+              "label": "Eiger, Mönch",
+              "canvases": ["http://206c46e6-6f21-4e97-80c2-dbab3dfa597a"]
+        }
+	]
+}
