@@ -136,7 +136,7 @@
 					],
 					"otherContent": [
 					  {
-							"@id": "http://127.0.0.1:8887/Annotations/AnnotationsdMerGlace.json",
+							"@id": "https://raw.githubusercontent.com/Mililine/manifests/main/AnnotationsdMerGlace.json",
 							"@type": "sc:AnnotationList",
 							"label": "Annotations, Mer de Glace"
 						}
