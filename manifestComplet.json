@@ -19,7 +19,7 @@
 	],
 	"license": "https://creativecommons.org/publicdomain/mark/1.0/",
 	"attribution": "Cabinet des Estampes, Bibliothèque nationale suisse",
-	"logo": "http://127.0.0.1:8887/logo.png",
+	"logo": "https://github.com/Mililine/manifests/blob/main/logo.png",
 	"sequences": [
 		{
 			"@id": "http://76cf1651-9a2b-4387-9098-4c72a4fb3172",
