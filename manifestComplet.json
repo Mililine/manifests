@@ -98,12 +98,12 @@
 						}
 					],
 					"otherContent": [
-        		{
-            		"@id": "https://raw.githubusercontent.com/Mililine/manifests/main/AnnotationsTrient.json",
-            		"@type": "sc:AnnotationList",
-            		"label": "Annotations, Glacier du Trient"
-        		}
-    			]
+        					{
+            						"@id": "https://raw.githubusercontent.com/Mililine/manifests/main/AnnotationsTrient.json",
+            						"@type": "sc:AnnotationList",
+            						"label": "Annotations, Glacier du Trient"
+        					}
+    					]
 				},
 				{
 					"@id": "http://c2809e60-66d8-45e1-806c-c0a83b53e217",
