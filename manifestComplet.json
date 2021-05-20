@@ -173,7 +173,7 @@
 					],
 					"otherContent": [
 							{
-								"@id": "http://127.0.0.1:8887/Annotations/AnnotationsChardonnet.json",
+								"@id": "https://github.com/Mililine/manifests/blob/main/AnnotationsChardonnet.json",
 								"@type": "sc:AnnotationList",
 								"label": "Annotations, Aiguille du Chardonnet"
 							}
