@@ -395,7 +395,7 @@
 					],
 					"otherContent": [
 							{
-								"@id": "http://127.0.0.1:8887/Annotations/AnnotationsJohannesbourg2.json",
+								"@id": "https://raw.githubusercontent.com/Mililine/manifests/main/AnnotationsJohannesbourg2.json",
 								"@type": "sc:AnnotationList",
 								"label": "Annotations, Johannesbourg"
 							}
