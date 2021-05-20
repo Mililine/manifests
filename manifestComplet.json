@@ -99,7 +99,7 @@
 					],
 					"otherContent": [
         		{
-            		"@id": "http://127.0.0.1:8887/Annotations/AnnotationsTrient.json",
+            		"@id": "https://raw.githubusercontent.com/Mililine/manifests/main/AnnotationsTrient.json",
             		"@type": "sc:AnnotationList",
             		"label": "Annotations, Glacier du Trient"
         		}
