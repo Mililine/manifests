@@ -210,7 +210,7 @@
 					],
 					"otherContent": [
 							{
-								"@id": "http://127.0.0.1:8887/Annotations/AnnotationsPyramides.json",
+								"@id": "https://raw.githubusercontent.com/Mililine/manifests/main/AnnotationsPyramides.json",
 								"@type": "sc:AnnotationList",
 								"label": "Annotations, pyramides"
 							}
