@@ -62,7 +62,7 @@
 					],
 					"otherContent": [
 						{
-							"@id": "http://127.0.0.1:8887/Annotations/AnnotationsEiger.json",
+							"@id": "https://raw.githubusercontent.com/Mililine/manifests/main/AnnotationsEiger.json",
 							"@type": "sc:AnnotationList",
 							"label": "Annotations, Eiger, Mönch"
 						}
