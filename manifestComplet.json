@@ -321,7 +321,7 @@
 					],
 					"otherContent": [
 							{
-								"@id": "http://127.0.0.1:8887/Annotations/AnnotationsCiteMorts.json",
+								"@id": "https://raw.githubusercontent.com/Mililine/manifests/main/AnnotationsCiteMorts.json",
 								"@type": "sc:AnnotationList",
 								"label": "Annotations, Cité des morts"
 							}
