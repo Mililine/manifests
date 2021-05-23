@@ -482,25 +482,5 @@
 				}
 			]
 		}
-	],
-	"structures": [
-		{
-          "@id": "http://example.org/iiif/book1/range/r0",
-          "@type": "sc:Range",
-          "label": "Alpes",
-          "members": [
-                {
-                  "@id": "http://example.org/iiif/book1/range/r1",
-                  "@type": "sc:Range",
-                  "label": "Eiger, Mönch"
-                }
-          ]
-        },
-        {
-              "@id": "http://example.org/iiif/book1/range/r1",
-              "@type": "sc:Range",
-              "label": "Eiger, Mönch",
-              "canvases": ["http://206c46e6-6f21-4e97-80c2-dbab3dfa597a"]
-        }
 	]
 }
