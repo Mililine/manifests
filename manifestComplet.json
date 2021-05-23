@@ -4,9 +4,9 @@
 	"@type": "sc:Manifest",
 	"label": "Photographies aériennes d'Eduard Spelterini, prises entre 1870 et 1926",
 	"service": {
-    	    "profile": "http://iiif.io/api/search/1/search",
+    	    "profile": "http://iiif.io/api/search/0/search",
             "@id": "http://sas.gdmrdigital.com/search-api/271e1048178228e3e41acb23aae70b06/search",
-            "@context": "http://iiif.io/api/search/1/context.json"
+            "@context": "http://iiif.io/api/search/0/context.json"
         },
 	"metadata": [
 		{"label": "Auteur", "value": "Eduard Spelterini (1852-1931)"},
