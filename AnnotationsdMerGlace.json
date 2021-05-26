@@ -232,7 +232,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://ac0a07c4-efd7-42cd-8199-61fff9dc28fa"
+        "@id" : "https://raw.githubusercontent.com/Mililine/manifests/main/manifestComplet.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -480,7 +480,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://ac0a07c4-efd7-42cd-8199-61fff9dc28fa"
+        "@id" : "https://raw.githubusercontent.com/Mililine/manifests/main/manifestComplet.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -728,7 +728,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://ac0a07c4-efd7-42cd-8199-61fff9dc28fa"
+        "@id" : "https://raw.githubusercontent.com/Mililine/manifests/main/manifestComplet.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
